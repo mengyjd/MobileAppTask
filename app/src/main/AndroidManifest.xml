@@ -10,8 +10,11 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyKotlin1">
         <activity
-            android:name=".TestHelloWorldActivity"
+            android:name=".TipTimeActivity"
             android:exported="true"></activity>
+        <activity
+            android:name=".TestHelloWorldActivity"
+            android:exported="true" />
         <activity
             android:name=".Test2DiceActivity"
             android:exported="true" />
