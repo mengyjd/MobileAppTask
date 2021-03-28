@@ -24,13 +24,9 @@ allprojects {
 //        jcenter()
         // jcenter
         maven { url 'https://maven.aliyun.com/repository/public' }
-        // google
         maven { url 'https://maven.aliyun.com/repository/google' }
-        // central
         maven { url 'https://maven.aliyun.com/repository/central' }
-        // public
         maven { url 'https://maven.aliyun.com/repository/public' }
-        // gradle-plugin
         maven { url 'https://maven.aliyun.com/repository/gradle-plugin' }
     }
 }
